@@ -1,0 +1,9 @@
+.albums-container {
+  display: flex;
+  overflow: auto;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 24px;
+  height: 24px;
+}

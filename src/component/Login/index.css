@@ -1,0 +1,24 @@
+.loginContainer {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.spotify-image {
+  max-height: 400px;
+  max-width: 1000px;
+  border-radius: 12px;
+}
+
+.login {
+  padding: 10px;
+  background-color: green;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bold;
+  border-radius: 8px;
+}

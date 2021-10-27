@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+  min-width: 100vw !important;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.content {
+  width: 50vw;
+}
+
+.girl-image {
+  width: 380px;
+}
+
+.nav-top-section {
+  max-width: 120%;
+  max-height: 250px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffb6c1;
+  align-items: center;
+}
+
+.nav-top-section-content {
+  color: white;
+  text-align: right;
+  margin-right: 100px;
+  flex-grow: 1;
+}
+
+.content {
+  flex-grow: 1;
+  padding-top: 20px;
+  margin-right: auto;
+  overflow-x: auto;
+}

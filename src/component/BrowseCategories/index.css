@@ -1,0 +1,4 @@
+.albums-container {
+  display: flex;
+  overflow: auto;
+}

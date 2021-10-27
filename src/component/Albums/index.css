@@ -1,0 +1,19 @@
+.album-cards {
+  height: 220px;
+  width: 180px;
+  margin: 5px;
+}
+
+.album-items {
+  list-style: none;
+  color: black;
+  margin: 0px;
+}
+
+.Album-images {
+  height: 180px;
+}
+
+.album-name {
+  font-weight: bold;
+}
